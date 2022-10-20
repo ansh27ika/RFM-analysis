@@ -23,7 +23,7 @@ So as per the research and analysis android app has the highest total purchase a
 ### Total spend by the customers both online and offline
 As we compare between online and offline people likes to shop more online as compare to offline mode. This is the scatter plot between recency v/s monetary and frequency v/s monetary 
 The chart shows that customers who purchased recently generated more revenue than customers who visited long time ago. Customers from recent past (50-100) days generated a moderate revenue. Customers who visited 200 days ago generated a low revenue.
-~`In second case`~
+`In second case`
 Customers classified as "Platinum Custoers" , "Very Loyal" and "Becoming Loyal" visit frequently, which correlated with increased revenue for the business.
 
 ## RFM METRICS  
@@ -51,7 +51,7 @@ promising               668
 #### `case 1`
 * A new women's shoe brand will be included. The target audience (champions,loyal_customers) and women are determined as shoppers.
 *  We need access to the id numbers of these customers.
-#### ~`case 2`~
+#### `case 2`
 * A 40% discount on men's and children's products is planned. The target audience is (cant_loose, about_to_sleep, new_customers). We need to access the id numbers of these customers.
 ## Conclusion
 RFM analysis enables marketers to increase revenue by targeting specific groups of existing customers (i.e., customer segmentation) with messages and offers that are more likely to be relevant based on data about a particular set of behaviors.
